@@ -1,1 +1,1 @@
-# teame4-mavenApp
+# maven-etech-application
